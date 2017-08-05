@@ -1,0 +1,18 @@
+QStatusBar{
+background-color: #202020;
+}
+
+QPushButton {
+border: 0px;
+background-color: #101010;
+}
+
+QPushButton:hover {
+border: 0px;
+background-color: #404040;
+}
+
+QPushButton:pressed {
+border: 0px;
+background-color: red;
+}
